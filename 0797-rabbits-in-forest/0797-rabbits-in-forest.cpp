@@ -2,18 +2,25 @@ class Solution {
 public:
     int numRabbits(vector<int>& answers) {
        unordered_map<int,int>mp;
-       int ans=0;
        for(int i=0;i<answers.size();i++)
        {
-         mp[answers[i]]++;
+           
+           mp[answers[i]]++;
        } 
-     for(auto it : mp){
-ans += ((it.second + (it.first + 1) - 1) / (it.first + 1)) * (it.first + 1);
-}
 
+       int ans=0;
+       for(auto i:mp)
+       {
+        //    ans+=i.second;
+        if(i.second>i.first+1)
+        {
+            ans+=i.second%(i.first+1)==0?(i.second/(i.first+1))*(i.first+1):((i.second/(i.first+1))+1)*(i.first+1);
+        }
+        else{
+            ans+=i.first+1;
+        }
 
-
-      
+       }
        return ans;
     }
 };
