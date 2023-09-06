@@ -13,7 +13,7 @@ public:
 
             if(cur>=k)
             {
-                while(cur>=k&&i<nums.size()&&i<=j)
+                while(cur>=k&&i<=j)
                 {
                     cur=cur/nums[i];
                     i++;
