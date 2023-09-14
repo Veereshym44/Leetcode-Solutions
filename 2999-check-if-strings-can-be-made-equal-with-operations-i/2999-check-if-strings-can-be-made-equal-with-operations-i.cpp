@@ -2,28 +2,20 @@ class Solution {
 public:
     bool canBeEqual(string s1, string s2) {
         if(s1==s2)return true;
-    int i=0,j=2;
+    int j=2;
 
-    while(i<4)
+  for(int i=0;i<4;i++)
+  {
+    if(s1[i]!=s2[i])
     {
-        if(s1[i]==s2[i])
-        {
-            i++;
-            j++;
-        }
-
-        else{
-            if(s1[i]!=s2[j])return false;
-
-            else{
-                swap(s2[i],s2[j]);
-                i++;
-                j++;
-            }
-
-
-        }
+        if(s1[i]==s2[j])
+        swap(s2[i],s2[j]);
+        else return false;
     }
+
+    j++;
+
+  }
         return true;
 
 
