@@ -21,9 +21,9 @@ public:
 
                     if(sum-x==cur)
                     {
-                        int n=nums.size();
-                        n=n-j+i-1;
-                        ans=min(ans,n);
+                        
+                        
+                        ans=min(ans,n-(j-i+1));
                     }
 
                     j++;
