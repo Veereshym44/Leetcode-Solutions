@@ -6,8 +6,8 @@ public:
         int n=nums.size();
         for(int i=0;i<nums.size();i++)
         {
-            unordered_set<int>s(nums[i].begin(),nums[i].end());
-            for(auto j:s)
+            // unordered_set<int>s(nums[i].begin(),nums[i].end());
+            for(auto j:nums[i])
                 mp[j]++;
             
         }
