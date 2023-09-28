@@ -16,24 +16,29 @@ public:
     void preorder(TreeNode* root)
     {
         if(root==NULL)return;
-        pre.push_back(root->val);
+       
+    pre.push_back(root->val);
         preorder(root->left);
         preorder(root->right);
     }
     void flatten(TreeNode* root) {
         
         if(root==NULL)return;
-        preorder(root);
         TreeNode* node=root;
-        node->val=pre[0];
-        node->left=NULL;
-        for(int i=1;i<pre.size();i++)
+        preorder(root);
+
+        int i=0;
+        while(i<pre.size()-1)
         {
-            TreeNode* newnode=new TreeNode(pre[i]);
-            node->right=newnode;
-            newnode->left=NULL;
+            node->left=NULL;
+            node->val=pre[i];
+
+            TreeNode* temp=new TreeNode(pre[i+1]);
+            i++;
+            node->right=temp;
             node=node->right;
-            
+        
         }
+        
     }
 };
