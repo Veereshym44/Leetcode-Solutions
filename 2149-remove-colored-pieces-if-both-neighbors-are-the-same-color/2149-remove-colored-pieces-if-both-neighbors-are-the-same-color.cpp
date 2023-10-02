@@ -4,7 +4,8 @@ public:
         if(colors.length()<3)return false;
 
         int cnt1=0,cnt2=0;
-int n=colors.size();
+        int n=colors.size();
+
         for(int i=1;i<n-1;i++)
         {
             if(colors[i]=='A')
