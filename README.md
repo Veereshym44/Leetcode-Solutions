@@ -34,3 +34,19 @@ You can also connect with me on LeetCode to see my progress and discuss coding c
 ## Happy Coding!
 
 Thank you for visiting this repository, and I hope these LeetCode solutions help you on your coding journey. Happy coding and best of luck with your technical interviews!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
+## String
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
+<!---LeetCode Topics End-->
