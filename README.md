@@ -40,6 +40,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 ## Array
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1720-crawler-log-folder](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## String
@@ -53,13 +54,20 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 ## Hash Table
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
+## Depth-First Search
+|  |
+| ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 <!---LeetCode Topics End-->
