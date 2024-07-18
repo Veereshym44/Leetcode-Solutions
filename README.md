@@ -47,6 +47,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Stack
 |  |
 | ------- |
@@ -70,4 +71,8 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+## Greedy
+|  |
+| ------- |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 <!---LeetCode Topics End-->
