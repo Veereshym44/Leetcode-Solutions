@@ -40,6 +40,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 ## Array
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1720-crawler-log-folder](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -90,6 +91,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 ## Binary Search Tree
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -99,4 +101,12 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Two Pointers
+|  |
+| ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+## Sorting
+|  |
+| ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 <!---LeetCode Topics End-->
