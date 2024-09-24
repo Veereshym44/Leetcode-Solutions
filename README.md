@@ -48,12 +48,14 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 | [2163-kth-distinct-string-in-an-array](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Stack
 |  |
@@ -65,6 +67,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 | [1207-delete-nodes-and-return-forest](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
@@ -146,4 +149,8 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Trie
+|  |
+| ------- |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
