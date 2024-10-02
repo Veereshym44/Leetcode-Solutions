@@ -44,6 +44,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -67,6 +68,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -124,6 +126,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1256-rank-transform-of-an-array](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
