@@ -56,6 +56,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -64,6 +65,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 ## Greedy
 |  |
 | ------- |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Linked List
 |  |
@@ -122,6 +125,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
 |  |
 | ------- |
