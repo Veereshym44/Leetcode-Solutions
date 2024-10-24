@@ -81,18 +81,21 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 ## Greedy
 |  |
