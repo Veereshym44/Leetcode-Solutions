@@ -51,6 +51,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 | [2163-kth-distinct-string-in-an-array](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -84,6 +85,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 | [0988-flip-equivalent-binary-trees](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
 | ------- |
@@ -91,12 +93,14 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 | [0988-flip-equivalent-binary-trees](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +148,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Matrix
 |  |
 | ------- |
