@@ -45,6 +45,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 | [0733-flood-fill](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [1002-maximum-width-ramp](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
