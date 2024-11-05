@@ -62,6 +62,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2580-circular-sentence](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2580-circular-sentence) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Stack
