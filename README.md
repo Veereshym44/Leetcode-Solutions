@@ -60,6 +60,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1720-crawler-log-folder](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -138,6 +139,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0392-is-subsequence](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
@@ -186,6 +188,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
