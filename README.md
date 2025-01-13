@@ -70,6 +70,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Stack
 |  |
@@ -87,6 +88,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 | [2306-create-binary-tree-from-descriptions](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
@@ -157,6 +159,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
