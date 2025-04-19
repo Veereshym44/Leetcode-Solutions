@@ -54,6 +54,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 | [2306-create-binary-tree-from-descriptions](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -133,6 +134,7 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -150,11 +152,13 @@ Thank you for visiting this repository, and I hope these LeetCode solutions help
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1256-rank-transform-of-an-array](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Veereshym44/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Counting
 |  |
 | ------- |
